@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 524 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="4.32964721%" y2="95.6703528%" id="linearGradient-1">
+            <stop stop-color="#f5f5f5" offset="0%"></stop>
+            <stop stop-color="#f5f5f5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="A5---Product-Slider" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="1">
+        <g id="Component_A5_Desktop" transform="translate(-390.000000, -40.000000)" fill="url(#linearGradient-1)">
+            <g id="CAROUSEL" transform="translate(180.000000, -10.000000)">
+                <g id="PRODUCTS" transform="translate(210.000000, 0.000000)">
+                    <g id="#3" transform="translate(0.000000, 50.000000)">
+                        <path d="M118.934916,409.586221 C87.5764224,443.551248 42.4476463,479.341867 0,493 L180.086124,493 C235.210151,493 343.055915,464.804745 400.067458,403.320609 C503.451822,290.629743 501.821695,167.075478 524,0 L368.902006,0 C329.693164,0 254.235448,2.09605011 228.625297,164.46105 C214.619075,252.743074 184.719116,337.982445 118.934916,409.586221 Z" id="Accent"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

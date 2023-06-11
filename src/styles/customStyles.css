@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3 {
+    @apply font-Nescafe;
+  }
+
+  p,
+  li,
+  span,
+  label,
+  input,
+  input::placeholder,
+  button {
+    @apply font-GothamRoundedBook;
+  }
+
+  h1 {
+    @apply text-center text-[32px] leading-[45px] md:text-5xl md:leading-[60px] xl:text-[55px] xl:leading-[65px];
+  }
+
+  p {
+    @apply text-lg opacity-90;
+  }
+}
